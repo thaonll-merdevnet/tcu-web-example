@@ -1,0 +1,80 @@
+<html>
+<head >
+    <meta charset="utf-8" >
+    <title> ÐANG KÍ</title>            
+
+</head>
+<body>
+    <table width="765" border="2" cellpadding="10" align="center">
+		<tr>
+				<td colspan="2">
+				<img src="hoc.png" align="center"></td>
+		</tr>
+		<tr>
+		<tr>
+			<td>Công c? tìm ki?m</td>
+			<td>
+				<ul>
+					<li>
+						<a href="http://www.msn.com/vi-vn/?pc=SK216&ocid=SK216DHP&osmkt=en-us">Google chorm
+						</a>
+					</li>
+					<li>
+						<a href="http://coccoc.com">C?c c?c</a>
+					</li>
+					<li>
+						<a href="http://www.msn.com/vi-vn/?pc=SK216&ocid=SK216DHP&osmkt=en-gb">Mozilla Firefox</a>
+					</li>
+				</ul>
+			</td>
+		</tr>
+				<td  >H? tên</td>
+				<td ><input type="text" name="hoten" placeholder="H? tên" ></td>
+		</tr>
+        <tr>
+           
+            	<td >Ngày sinh:</td>
+                <td><input type="date" name="ngaysinh"></td>
+		</tr>
+		<tr>
+				<td> Tên dang kí:</td>
+				<td><input type="text" name="tendangki"></td>
+
+        </tr>
+		<tr>
+				<td>M?t kh?u:</td>
+				<td><input type="password" name="matkhau"></td>
+		</tr>
+		<tr>
+				<td>Nh?p l?i m?t kh?u:</td>
+				<td><input type="password" name="nhaplaimatkhau"></td>
+		</tr>
+		<tr>
+				 	<td >Gi?i tính :</td>
+                    <td align="left">Nam<input type="radio" name="gioitinh" value="Nam">
+                                     N?<input type="radio" name="gioitinh" value="N?"></td>
+		</tr>
+		<tr>
+ 
+				<td >Email:</td>
+				<td><input type="text" name="email" placeholder="email"> </td>
+		</tr>
+		<tr>
+				<td colspan="2"style="text-align:right"><input type="submit" value="Ðang kí" ></td>
+               
+		</tr>
+		<tr>
+				<td colspan="2" style="text-align: center;">
+		                    Design by Thaonll_merdevnet</br>
+						Chào m?ng các b?n d?n v?i trang web c?a tôi!      
+					
+				</td>
+		</tr>
+                    
+            
+			
+	</table>
+</body>
+
+
+</html>
