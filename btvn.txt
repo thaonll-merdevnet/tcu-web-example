@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <meta charset="utf8">
+        <title>Bài t?p t?o b?ng</title>
+    </head>
+    <body>
+        <table height="623px" border="1" bordercolor="green" width="463px" align="center" bgcolor="cyan" cellpadding="5" cellspacing="5px">
+            <thead>
+                <tr>
+                    <td colspan="2"align="center"><img src="hinh.png"></td>
+                </tr>
+            </thead>
+           
+           
+            <tbody>
+                <tr>
+                    <td>Liên h?
+                        <nav>
+                            <ul>
+                                <li><a href="https://www.facebook.com/nguyenlulamthao">Facebook</a></li>
+                                <li><a href="https://www.youtube.com/channel/UCK5OeLcgxJJBoUXRrL7sxhQ">Youtube</a></li>
+                                <li><a href="file:///D:/DEVELOPMENT/ltweb/sdt.html">S? di?n tho?i</a></li>
+                            </ul>
+                        </nav>
+                    </td>
+                    <td >
+                        <form >
+                            Full name:  <input type="text" name="H? tên" value="Nguy?n L? Lâm Thao"><br>
+                            Tên dang kí:<input type="text" name="tendangki" value="Tên dang kí"><br>
+                            M?t kh?u:   <input type="password" name="matkhau" value="M?t kh?u"><br>
+                            Nh?p l?i m?t kh?u: <input type="password" name="Nhaplaimatkhau" value="Nh?p l?i m?t kh?u"><br>
+                            Ngày sinh: <input type="datetime" name="ngaysinh" value="Ngày sinh"><br>
+                            Gi?i tính: <input type="radio" name="gioitinh" value="Nam">Nam
+                                       <input type="radio" name="gioitinh" value="N?">N?<br>
+                            Email: <input type="email" name="email" value="Email"><br>
+                            Ð?a ch?: <input type="text" name="diachi" value="Ð?a ch?"><br>
+                            Ð?ng ý: <input type="checkbox" name="dongy" value="">
+                        </form>
+                    </td>
+                   
+                </tr>
+            </tbody>
+             <tfoot>
+                <tr>
+                    <td colspan="2" align="center">Design by Nguy?n L? Lâm Thao (thaonll_merdevnet.com)</td>
+                </tr>
+            </tfoot>
+             <tfoot>
+                <tr>
+                    <td colspan="2" align="right"><input type="submit" value="Ðang kí"></td>
+                </tr>
+            </tfoot>
+
+
+        </table>
+
+
+
+    </body>
+</html>
